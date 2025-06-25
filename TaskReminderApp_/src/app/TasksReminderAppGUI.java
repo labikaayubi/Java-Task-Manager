@@ -30,7 +30,7 @@ public class TasksReminderAppGUI {
         titleField.setBackground(new Color(200, 183, 200));
         dateField = new JTextField(10);
         dateField.setBackground(new Color(200, 183, 200));
-        JButton addButton = new JButton("Add");
+        JButton addButton = new JButton("Add task");
         addButton.setBackground(new Color(247, 238, 136));
         addButton.setFont(new Font("Tahoma", Font.BOLD, 11));
 
